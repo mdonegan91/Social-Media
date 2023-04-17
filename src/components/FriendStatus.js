@@ -19,11 +19,11 @@ FriendStatus.propTypes = {
     img: PropTypes.shape({
         src: PropTypes.string.isRequired,
         alt: PropTypes.string.isRequired,
-        width: PropTypes.string.isRequired
+        width: PropTypes.string.isRequired,
     }).isRequired,
     name: PropTypes.string.isRequired,
-    desc: PropTypes.string.isRequired,
-    time: PropTypes.number.isRequired,
+        desc: PropTypes.string.isRequired,
+            time: PropTypes.number.isRequired,
 
 };
 

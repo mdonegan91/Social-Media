@@ -7,7 +7,7 @@ function Friends(){
   return (
     <React.Fragment>
       <Container className="mt=5">
-      <h2>Dogs you may know</h2>
+      <h3>Dogs you may know:</h3>
       <FriendsInfo />
       </Container>
     </React.Fragment>

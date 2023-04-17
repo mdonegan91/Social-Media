@@ -7,15 +7,15 @@ import Col from 'react-bootstrap/Col';
 
 function Friends(props) {
   return (
-      <Card className="mt-2 shadow-lg p-1 mb-3 bg-white rounded" style={{ width: '18rem' }}>
-        <Card.Img variant="top" src={props.img}/>
-        <Card.Body className="">
-          <Row>
-            <Col><Card.Title>{props.name}</Card.Title></Col>
-            <Col><Button className="btn btn-outline-success" variant="light" size="sm">Add Friend</Button></Col>
-          </Row>
-        </Card.Body>
-      </Card>
+    <Card className="mt-2 shadow-lg p-1 mb-3 bg-white rounded" style={{ width: '18rem' }}>
+      <Card.Img variant="top" src={props.img} />
+      <Card.Body className="">
+        <Row>
+          <Col><Card.Title>{props.name}</Card.Title></Col>
+          <Col><Button className="btn btn-outline-primary" variant="light" size="sm">Add Friend</Button></Col>
+        </Row>
+      </Card.Body>
+    </Card>
   );
 }
 

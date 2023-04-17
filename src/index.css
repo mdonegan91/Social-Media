@@ -7,7 +7,20 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.NavBar {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  background-color: rgb(246, 242, 242);
+  margin-bottom: 30px;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.navButtons{
+  padding-left: 50px;
+  padding-right: 50px;
+  align-items: center;
 }

@@ -9,7 +9,7 @@ function Header() {
   return (
     <React.Fragment>
       <Navbar expaid="xxl">
-        <Container fluid>
+        <Container fluid className="NavBar">
           <div className="NavButtons">
             <a class="navbar-brand" href="Home">Home</a>
             <a class="navbar-brand" href="Notifications">Notifications</a>
@@ -24,12 +24,12 @@ function Header() {
               className="me-2"
               aria-label="Search"
             />
-            <Button variant="outline-success">Search</Button>
+            <Button variant="outline-prima">Search</Button>
             
           </Form>
           
           <div>
-            <Button variant="outline-success">Tweet</Button>
+            <Button variant="outline-prima">Tweet</Button>
           </div>
 
         </Container>
