@@ -6,7 +6,7 @@
 
 #### 🐣[Technologies Used](#technologies-used)
 #### 🐩 [Component Diagram](#component-diagram)
-#### 🐷 [Setup / Installation](#setup--installation)
+#### 🐷 [Setup / Installation](#setup/installation)
 #### 🐰 [Known Bugs](#known-bugs)
 #### 🦄 [License](#license)
 
