@@ -1,4 +1,4 @@
-# MySpaceTwitter Social Media Clone
+# Social Media Clone
 
 ### A mock social media application created using React.
 
@@ -19,7 +19,7 @@
 
 ## Mockup
 
-![mockup](/REACTFAKETWITTER.png)
+![mockup](/ReactFakeTwitter.png)
 
 ## Component Diagram
 ```
