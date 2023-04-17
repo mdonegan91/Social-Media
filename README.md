@@ -60,7 +60,7 @@ git clone https://github.com/jlenz27/socialmedia
 
 **MIT License**
 
-Copyright (c) 2022 Aitana Shough, Anton Ch, and Alex Johnson
+Copyright (c) 2022 Molly Donegan, Brishna Bakshev, and John Lenz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
